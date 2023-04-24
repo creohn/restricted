@@ -7,7 +7,6 @@ The banned terms are under constant revision & is not public, so I'm going to li
 # Midjourney
 - ass
 - bare 
-- blood 
 - breast (chest is allowed)
 - cannibal
 - medical horror
@@ -15,6 +14,9 @@ The banned terms are under constant revision & is not public, so I'm going to li
 - Ouija (dafuq‽)
 - Rule34
 - willy
+
+## Not restricted anymore
+- blood
 
 
 # Firefly
