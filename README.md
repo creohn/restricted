@@ -13,6 +13,7 @@ The banned terms are under constant revision & is not public, so I'm going to li
 - medical horror
 - organs 
 - Ouija (dafuq‽)
+- Rule34
 - willy
 
 
