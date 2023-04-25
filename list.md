@@ -13,6 +13,7 @@ The banned terms are under constant revision & is not public, so I'm going to li
 - organs 
 - Ouija (dafuq‽)
 - Rule34
+- vein
 - willy
 
 ## Not restricted anymore
