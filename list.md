@@ -13,6 +13,7 @@ The banned terms are under constant revision & not public, so I'm going to list 
 - organs 
 - Ouija (dafuq‽)
 - Rule34
+- takes a shower
 - vein
 - willy
 
