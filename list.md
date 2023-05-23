@@ -10,6 +10,7 @@ The banned terms are under constant revision & not public, so I'm going to list 
 - breast (chest is allowed)
 - cannibal
 - medical horror
+- mushroomgore
 - on the toilet
 - organs 
 - Ouija (dafuq‽)
