@@ -23,8 +23,9 @@ The banned terms are under constant revision & not public, so I'm going to list 
 - blood
 
 
-# Firefly
+# Firefly/Photoshop “Generative fill”
 - Berlin (dafuq) 
 - blood
 - bloodstream 
 - crimson
+- fart
